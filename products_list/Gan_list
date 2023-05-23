@@ -1,0 +1,15 @@
+{
+"products": [{
+"product":"earphones",
+"Dealers":["redmi","realme","sony"]
+},{
+  "product":"desktop",
+  "Dealers":["IBM","sony","MI"]
+},{
+  "product":"Keyboar",
+  "Dealers":["DXC Electronics","Tech City"]
+  },{
+  "product":"washing machine",
+  "Dealers":["IFB","DXC Electronics","Bobay","GH Computers"]
+  }]
+}
